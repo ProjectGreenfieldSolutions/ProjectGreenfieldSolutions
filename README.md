@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Greenfield
-- 👀 I’m interested in postively impacting others through software and networking
+- 🤝 I’m interested in postively impacting others through software and networking
 - 🌱 I’m currently learning the Godot 4+ game engine
-- 💞️ I’m looking to collaborate on Godot 4+ projects
+- ⚙️ I’m looking to collaborate on Godot 4+ projects
 - 📫 How to reach me jacob@projectgreenfield.solutions
+- 📖 In my free time I am in hot pursuit of a Bachelors in Software Engineering
