@@ -5,7 +5,8 @@
 
 ## Godot Game Development
 - 🌱 I’m currently learning the Godot 4+ game engine
-- ⚙️ I’m looking to collaborate on Godot 4+ projects
+- 🥇 My priority to the gamers experience. I look at the accessibility of the game as well as the "how fun is it" aspects in all of my Godot gaming projects.
+- Check out my itch.io profile: [Greenfield Solutions itch.io](https://greenfieldsolutions.itch.io)
 
 ## Professional Endeavers
 - 🐍 Python is my primary programming language of choice, after coming from the C++ embedded systems area.
