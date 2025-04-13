@@ -1,5 +1,5 @@
 ### Daily Refinement
-[![NiceGUI](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstyles.redditmedia.com%2Ft5_7sogo1%2Fstyles%2FcommunityIcon_7ms8p9yd6eda1.png&f=1&nofb=1&ipt=5df93f667a8fa4ba991449ad4591f9ed6b21db5d4562812de0674affa283ba12)](https://nicegui.io/documentation)
+[![NiceGUI](https://github.com/ProjectGreenfieldSolutions/ProjectGreenfieldSolutions/blob/main/nicegui.png)](https://nicegui.io/documentation)
 [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
