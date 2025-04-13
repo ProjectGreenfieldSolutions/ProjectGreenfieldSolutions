@@ -1,5 +1,4 @@
 ### Daily Refinement
-[![NiceGUI](https://github.com/ProjectGreenfieldSolutions/ProjectGreenfieldSolutions/blob/main/nicegui.png)](https://nicegui.io/documentation)
 [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
@@ -8,6 +7,7 @@
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 [![Godot](https://skillicons.dev/icons?i=godot)](https://godotengine.org)
 [![vim](https://skillicons.dev/icons?i=vim)](https://www.vim.org)
+[![NiceGUI](https://github.com/ProjectGreenfieldSolutions/ProjectGreenfieldSolutions/blob/main/nicegui.png)](https://nicegui.io/documentation)
 
 ### Full-Stack Specific
 [![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
