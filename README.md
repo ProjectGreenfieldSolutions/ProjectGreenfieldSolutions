@@ -1,5 +1,5 @@
 ### Daily Refinement
-[![NiceGUI](https://skillicons.dev/icons?i=nicegui)](https://nicegui.io/documentation)
+[![NiceGUI](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstyles.redditmedia.com%2Ft5_7sogo1%2Fstyles%2FcommunityIcon_7ms8p9yd6eda1.png&f=1&nofb=1&ipt=5df93f667a8fa4ba991449ad4591f9ed6b21db5d4562812de0674affa283ba12)](https://nicegui.io/documentation)
 [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
@@ -27,8 +27,8 @@
 ### OS Specific
 [![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://ubuntu.com)
 [![RedHat](https://skillicons.dev/icons?i=redhat)](https://www.redhat.com)
-[![Linux](https://skillicons.dev/icons?i=linux)])(https://www.linux.org)
-[![Apple](https://skillicons.dev/icons?i=apple)])(https://www.apple.com)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org)
+[![Apple](https://skillicons.dev/icons?i=apple)](https://www.apple.com)
 [![Kali Linux](https://skillicons.dev/icons?i=kali)](https://www.kali.org)
 [![Windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/windows)
 
@@ -39,7 +39,7 @@
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 
 ### DevOps Specific
-[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)])(https://kubernetes.io)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io)
 
 ### Database Specific
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
