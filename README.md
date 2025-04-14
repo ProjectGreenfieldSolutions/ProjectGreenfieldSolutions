@@ -33,8 +33,8 @@
 [![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://ubuntu.com)
 [![RedHat](https://skillicons.dev/icons?i=redhat)](https://www.redhat.com)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org)
-[![Apple](https://skillicons.dev/icons?i=apple)](https://www.apple.com)
 [![Kali Linux](https://skillicons.dev/icons?i=kali)](https://www.kali.org)
+[![Apple](https://skillicons.dev/icons?i=apple)](https://www.apple.com)
 [![Windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/windows)
 
 ### IDE Specific
